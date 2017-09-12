@@ -1,2 +1,5 @@
 # FirstTry
-Testing
+
+First attempt at GitHub repository.
+
+Aaron Hoffman
